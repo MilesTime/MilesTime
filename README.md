@@ -14,7 +14,7 @@ This account serves as a legacy reference. For my latest work, please visit:
 
 🔗 New GitHub: [github.com/milesywong](https://github.com/milesywong)  
 📄 arXiv: [arXiv:2503.05226](https://arxiv.org/abs/2503.05226)  
-📧 Contact: miles.y.wong [at] gmail [dot] com
+📧 Contact: milesywong@gmail.com
 
 ---
 
